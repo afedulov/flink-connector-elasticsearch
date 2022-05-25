@@ -55,6 +55,8 @@ under the License.
 		<module>flink-connector-elasticsearch-base</module>
 		<module>flink-connector-elasticsearch6</module>
 		<module>flink-connector-elasticsearch7</module>
+		<module>flink-end-to-end-tests-elasticsearch7</module>
+		<module>flink-end-to-end-tests-common-elasticsearch</module>
 	</modules>
 
 	<properties>
